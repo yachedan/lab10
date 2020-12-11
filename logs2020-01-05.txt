@@ -1,0 +1,93 @@
+2020-01-05 15:37:56.154  WARN 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:37:56.315  WARN 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:37:56.325  WARN 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:37:56.344  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:37:56.356  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:37:56.855  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:38:12.679  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:38:12.683  WARN 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:38:13.139  WARN 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:41:57.577  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:41:58.017  INFO 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:41:58.070  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:42:07.112  INFO 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:42:13.046  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:42:13.046  INFO 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:42:13.113  INFO 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:42:15.077  INFO 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:43:23.539  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:23.639  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:23.639  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:23.669  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:23.674  WARN 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:34.066  WARN 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:34.069  WARN 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:34.396  INFO 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:43:43.804  WARN 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:43:43.813  INFO 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:44:02.137  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:44:02.142  INFO 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:44:02.244  INFO 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:44:34.270  WARN 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:44:34.281  INFO 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:44:45.872  INFO 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:44:46.074  INFO 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:50:50.830  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:50:50.980  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 15:50:51.511  INFO 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 15:50:51.567  INFO 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 16:14:59.284  WARN 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:14:59.351  WARN 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:14:59.352  WARN 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:14:59.379  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:14:59.390  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:15:03.143  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:15:03.144  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:15:03.394  INFO 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 16:15:06.737  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 16:15:06.749  WARN 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 16:15:13.706  INFO 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 20:50:04.172  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:04.245  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:04.275  WARN 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:04.282  WARN 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:04.299  WARN 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:10.260  WARN 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:10.261  WARN 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 20:50:10.567  INFO 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 20:50:15.823  INFO 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 20:50:24.331  INFO 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:05:10.880  WARN 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:11.090  WARN 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:11.095  WARN 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:11.116  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:11.116  WARN 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:12.109  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:34.899  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:34.900  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:35.269  INFO 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:05:35.405  WARN 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:44.843  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:05:44.915  WARN 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:05:54.155  INFO 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:05:58.343  INFO 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:06:11.038  INFO 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:06:11.071  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 21:06:11.117  INFO 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:06:22.737  INFO 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 21:06:25.279  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:38:48.642  WARN 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:49.076  WARN 129725 --- [nio-8077-exec-6] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:49.107  WARN 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:49.114  WARN 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:49.117  WARN 129725 --- [nio-8077-exec-1] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:54.615  WARN 129725 --- [nio-8077-exec-4] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:54.616  WARN 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : couldn't find bearer string, will ignore the header
+2020-01-05 22:38:54.838  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:38:59.026  INFO 129725 --- [nio-8077-exec-9] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:39:04.738  INFO 129725 --- [io-8077-exec-10] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:40:05.502  INFO 129725 --- [nio-8077-exec-3] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:41:05.549  INFO 129725 --- [nio-8077-exec-2] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:42:05.439  INFO 129725 --- [nio-8077-exec-5] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:43:05.478  INFO 129725 --- [nio-8077-exec-8] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
+2020-01-05 22:44:05.439  INFO 129725 --- [nio-8077-exec-7] com.med.config.JwtAuthenticationFilter   : authenticated user superadmin, setting security context
